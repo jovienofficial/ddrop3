@@ -1,0 +1,6 @@
+{
+  "name": "Ddrop Deal Finder",
+  "description": "Find the best deals across Indian shopping sites by pasting an Amazon.in URL. Powered by Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
